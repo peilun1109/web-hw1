@@ -1,0 +1,33 @@
+.container {
+  margin: 0 auto;
+  width: 1024px;
+}
+
+.large_font {
+  font-size: 24px;
+  opacity: 50deg;
+}
+
+.super_large_font {
+  font-size: 40px;
+}
+
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.r_corner {
+  border-radius: 300px;
+  width: 300px;
+  height: 300px;
+}
+
+.r_img:hover {
+  opacity: 0.5;
+  rotate: 2deg;
+}
+
+.banner:hover {
+  opacity: 0.5;
+}
